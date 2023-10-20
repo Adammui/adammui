@@ -1,5 +1,5 @@
 ## i like cherry pies 🥧
-i’m currently working on my graduation project as well as Unity game with my team 
+i’m currently working on my health as well as Unity game with my team 
 
 <!--
 **Adammui/adammui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
